@@ -1,6 +1,6 @@
 AC_INIT(./Makefile.in)
 AC_SUBST(PACKAGE)
-PACKAGE=dynacase-RequireJS-installer
+PACKAGE=dynacase-requirejs-installer
 AC_SUBST(VERSION)
 VERSION=`cat VERSION`
 AC_SUBST(RELEASE)
