@@ -6,7 +6,7 @@
     <parameters>
         <param name="RequireJS" label="RequireJS download URL" type="text"
                volatile="yes" onupgrade="W"
-               default="ftp://ftp.anakeen.com/third-party/RequireJS-@VERSION@.zip"/>
+               default="http://ftp.dynacase.org/third-party/RequireJS-@VERSION@.zip"/>
     </parameters>
 
     <post-install>
